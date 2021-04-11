@@ -1,0 +1,16 @@
+D:\SourceDemo\SortAlgorithms\SortAlgorithms\bin\Debug\net5.0\SortAlgorithms.exe
+D:\SourceDemo\SortAlgorithms\SortAlgorithms\bin\Debug\net5.0\SortAlgorithms.deps.json
+D:\SourceDemo\SortAlgorithms\SortAlgorithms\bin\Debug\net5.0\SortAlgorithms.runtimeconfig.json
+D:\SourceDemo\SortAlgorithms\SortAlgorithms\bin\Debug\net5.0\SortAlgorithms.runtimeconfig.dev.json
+D:\SourceDemo\SortAlgorithms\SortAlgorithms\bin\Debug\net5.0\SortAlgorithms.dll
+D:\SourceDemo\SortAlgorithms\SortAlgorithms\bin\Debug\net5.0\ref\SortAlgorithms.dll
+D:\SourceDemo\SortAlgorithms\SortAlgorithms\bin\Debug\net5.0\SortAlgorithms.pdb
+D:\SourceDemo\SortAlgorithms\SortAlgorithms\obj\Debug\net5.0\SortAlgorithms.csprojAssemblyReference.cache
+D:\SourceDemo\SortAlgorithms\SortAlgorithms\obj\Debug\net5.0\SortAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceDemo\SortAlgorithms\SortAlgorithms\obj\Debug\net5.0\SortAlgorithms.AssemblyInfoInputs.cache
+D:\SourceDemo\SortAlgorithms\SortAlgorithms\obj\Debug\net5.0\SortAlgorithms.AssemblyInfo.cs
+D:\SourceDemo\SortAlgorithms\SortAlgorithms\obj\Debug\net5.0\SortAlgorithms.csproj.CoreCompileInputs.cache
+D:\SourceDemo\SortAlgorithms\SortAlgorithms\obj\Debug\net5.0\SortAlgorithms.dll
+D:\SourceDemo\SortAlgorithms\SortAlgorithms\obj\Debug\net5.0\ref\SortAlgorithms.dll
+D:\SourceDemo\SortAlgorithms\SortAlgorithms\obj\Debug\net5.0\SortAlgorithms.pdb
+D:\SourceDemo\SortAlgorithms\SortAlgorithms\obj\Debug\net5.0\SortAlgorithms.genruntimeconfig.cache
